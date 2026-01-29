@@ -99,7 +99,7 @@ Según INCIBE y el fabricante:
   - Despliegues en contenedor: sustituir `InitialAccountSetup.xhtml` por un archivo vacío y reiniciar servicios.  
 
 
-![captura10](./captura10.png)
+![Captura10](./Captura10.png)
 
 ---
 
