@@ -8,11 +8,11 @@
 - Productos y versiones afectadas: Fortra GoAnywhere MFT desde la versión 6.0.1 hasta la 7.4.1.  
 - Severidad: crítica.  
 
-![captura01](./captura01.png)
+![Captura01](./Captura01.png)
 
 INCIBE actualiza el aviso indicando que la vulnerabilidad corresponde a **CVE-2024-0204** y que Fortra la corrigió con un parche el 07/12/2023.
 
-![captura02](./captura02.png)
+![Captura02](./Captura02.png)
 
 ---
 
@@ -24,12 +24,12 @@ INCIBE actualiza el aviso indicando que la vulnerabilidad corresponde a **CVE-20
 - Debilidad asociada: **CWE-425 – Direct Request ('Forced Browsing')**.  
 - Producto: Fortra GoAnywhere MFT, versiones anteriores a 7.4.1.  
 
-![captura03](./captura03.png)
+![Captura03](./Captura03.png)
 
 Desde la ficha se puede acceder al **CVE Record en JSON** usando el enlace «View JSON», donde aparece la misma información estructurada (descripción, productos, CWE, CVSS, referencias).
 
-![captura04](./captura04.png)
-> captura04: vista JSON en CVE.org resaltando descripción, CVSS y CWE.
+![Captura04](./Captura04.png)
+> Captura04: vista JSON en CVE.org resaltando descripción, CVSS y CWE.
 
 ---
 
@@ -49,7 +49,7 @@ Interpretación rápida del vector:
 - Weakness: CWE-425 (Direct Request / Forced Browsing).  
 - Affected Software (CPE): GoAnywhere MFT < 7.4.1 (distintas plataformas/sistemas).  
 
-![captura05](./captura05.png)
+![Captura05](./Captura05.png)
 
 ---
 
@@ -61,7 +61,7 @@ Interpretación rápida del vector:
 
 Para ampliar el significado de CWE‑425 se puede consultar, por ejemplo, la descripción en MITRE: https://cwe.mitre.org/ (buscar CWE‑425) o un análisis técnico de la vulnerabilidad.
 
-![captura07](./captura07.png)
+![Captura07](./Captura07.png)
 
 ---
 
@@ -81,7 +81,7 @@ Ejemplos de análisis:
 También existe exploit público en Exploit‑DB:  
 - https://www.exploit-db.com/exploits/52308  
 
-![captura08](./captura08.png)
+![Captura08](./Captura08.png)
 
 ---
 
