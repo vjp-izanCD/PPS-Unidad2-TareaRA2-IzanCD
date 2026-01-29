@@ -98,7 +98,7 @@ markdown_extensions:
       normalize_issue_symbols: true
       repo_url_shorthand: true
       user: vjp-izanCD
-      repo: PPS-Unidad1-TareaRA1-IzanCD
+      repo: PPS-Unidad2-TareaRA2-IzanCD
   - pymdownx.mark
   - pymdownx.smartsymbols
   - pymdownx.snippets:
