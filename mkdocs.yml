@@ -3,11 +3,11 @@ site_description: Documentación Tarea RA2 - Análisis y Testing de Aplicaciones
 site_author: Izan CD
 site_url: https://vjp-izancd.github.io/PPS-Unidad2-TareaRA2-IzanCD/
 
-docs_dir: .
+docs_dir: docs
 
 repo_url: https://github.com/vjp-izanCD/PPS-Unidad2-TareaRA2-IzanCD
 repo_name: GitHub
-edit_uri: edit/main/
+edit_uri: edit/main/docs/
 
 theme:
   name: material
@@ -124,7 +124,7 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/vjp-izancCD
+      link: https://github.com/vjp-izanCD
       name: GitHub
   generator: false
 
