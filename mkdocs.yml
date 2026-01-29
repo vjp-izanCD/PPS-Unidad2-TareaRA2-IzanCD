@@ -10,7 +10,7 @@ edit_uri: edit/main/docs/
 theme:
   name: material
   language: es
-  
+
   palette:
     - scheme: slate
       primary: indigo
@@ -18,25 +18,25 @@ theme:
       toggle:
         icon: material/weather-night
         name: Modo claro
-    - scheme: default  
+    - scheme: default
       primary: indigo
       accent: teal
       toggle:
         icon: material/weather-sunny
         name: Modo oscuro
-  
+
   font:
     text: Inter
     code: JetBrains Mono
-  
+
   icon:
     logo: material/security
     repo: fontawesome/brands/github
     edit: material/pencil
     view: material/eye
-  
+
   favicon: material/shield-check
-  
+
   features:
     - announce.dismiss
     - content.action.edit
@@ -125,18 +125,14 @@ extra:
       link: https://github.com/vjp-izanCD
       name: GitHub
   generator: false
-  
 
 nav:
-  - Inicio:
-    - index.md
-  - Análisis de Código:
-    - apartado1-analisis-codigo.md
-  - Ejecución y Depuración:
-    - apartado2-ejecucion-depuracion.md
-  - Tests Unitarios:
-    - apartado3-tests.md
-  - Entorno Controlado:
-    - apartado4-sandbox.md
-  - Reflexión de Seguridad:
-    - apartado5-reflexion-seguridad.md
+  - Inicio: index.md
+  - Trazado de vulnerabiliad:
+      - U2-RA2-T1/TrazadoVulnerabilidadGoAnywhere-IzanCorreaDiaz.md
+  - Análisis de vulnerabilidad en máquina vulnerable:
+      - U2-RA2-T2/analisisVulnerabilidad-IzanCorreaDiaz.md
+  - Comprobación de los requisitos de Seguridad de una aplicación:
+      - U2-RA2-T3/ComprobacionRequisitosAplicacion-IzanCorreaDiaz.md
+  - Reflexión sobre los riesgos de las aplicaciones:
+      - U2-RA2-T4/ReflexiónRiesgosAplicaciones-IzanCorreaDiaz.md
