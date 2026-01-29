@@ -149,10 +149,10 @@ Aplicación Python Flask educativa evaluada con OWASP ASVS Nivel 1.
 
 ### 📂 Documentación Completa
 
-1. **[Trazado de Vulnerabilidad CVE-2024-0204](U2-RA2-T1/Trazado-de-una-vulnerabilidad-Izan-Correa-Diaz.md)**  
+1. **[Trazado de Vulnerabilidad CVE-2024-0204](U2-RA2-T1/TrazadoVulnerabilidadGoAnywhere-IzanCorreaDiaz.md)**  
    _Trazado completo de vulnerabilidad crítica en GoAnywhere MFT_
 
-2. **[Análisis de Vulnerabilidad SQL Injection en bWAPP](U2-RA2-T2/analisisVulnerabilidad-IzanCorreaDiaz.md)**  
+2. **[Análisis de Vulnerabilidad SQL Injection en bWAPP](U2-RA2-T2/AnalisisVulnerabilidad-IzanCorreaDiaz.md)**  
    _Análisis detallado de inyección SQL y niveles de seguridad_
 
 3. **[Comprobación de Requisitos de Seguridad ASVS](U2-RA2-T3/ComprobacionRequisitosAplicacion-IzanCorreaDiaz.md)**  
