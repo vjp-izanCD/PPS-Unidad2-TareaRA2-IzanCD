@@ -3,8 +3,6 @@ site_description: Documentación Tarea RA2 - Análisis y Testing de Aplicaciones
 site_author: Izan CD
 site_url: https://vjp-izancd.github.io/PPS-Unidad2-TareaRA2-IzanCD/
 
-docs_dir: docs
-
 repo_url: https://github.com/vjp-izanCD/PPS-Unidad2-TareaRA2-IzanCD
 repo_name: GitHub
 edit_uri: edit/main/docs/
@@ -129,12 +127,12 @@ extra:
   generator: false
 
 nav:
-  - Inicio: index.md
+  - Inicio: docs/index.md
   - Trazado de vulnerabilidad:
-      - U2-RA2-T1/TrazadoVulnerabilidadGoAnywhere-IzanCorreaDiaz.md
+      - docs/U2-RA2-T1/TrazadoVulnerabilidadGoAnywhere-IzanCorreaDiaz.md
   - Análisis de vulnerabilidad en máquina vulnerable:
-      - U2-RA2-T2/AnalisisVulnerabilidad-IzanCorreaDiaz.md
+      - docs/U2-RA2-T2/AnalisisVulnerabilidad-IzanCorreaDiaz.md
   - Comprobación de los requisitos de seguridad de una aplicación:
-      - U2-RA2-T3/ComprobacionRequisitosAplicacion-IzanCorreaDiaz.md
+      - docs/U2-RA2-T3/ComprobacionRequisitosAplicacion-IzanCorreaDiaz.md
   - Reflexión sobre los riesgos de las aplicaciones:
-      - U2-RA2-T4/ReflexionRiesgosAplicaciones-IzanCorreaDiaz.md
+      - docs/U2-RA2-T4/ReflexionRiesgosAplicaciones-IzanCorreaDiaz.md
