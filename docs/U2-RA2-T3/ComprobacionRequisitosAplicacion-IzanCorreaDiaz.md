@@ -1,4 +1,4 @@
-# Puesta en Producción Segura - UT2 - Comprobación de requisitos de seguridad de la aplicación
+# Comprobación de requisitos de seguridad de la aplicación
 
 ## 1. Nivel de seguridad requerido
 
@@ -112,3 +112,10 @@ Al estar organizado por capítulos y niveles, permite ajustar el esfuerzo de seg
 - La aplicación desarrollada en clase encaja en **ASVS Nivel 1** y cumple una parte importante de los requisitos de validación de entrada y código malicioso para ese nivel.
 - La hoja de cálculo ASVS y las capturas aportan una evidencia clara y ordenada del análisis de seguridad realizado.
 - El proceso ayuda a detectar mejoras concretas para endurecer la aplicación, especialmente si en el futuro se quisiera sacar del entorno de laboratorio.
+
+---
+
+**Autor:** Izan Correa Díaz  
+**Fecha:** 29 de enero de 2026  
+**Asignatura:** Puesta en Producción Segura - UT2  
+**Actividad:** Comprobación de requisitos de seguridad de la aplicación

@@ -1,4 +1,4 @@
-# Puesta en Producción Segura – Máquinas Vulnerables (bWAPP)
+# Máquinas Vulnerables (bWAPP)
 
 En esta actividad se analiza una vulnerabilidad de **Inyección SQL (SQL Injection)** en la aplicación bWAPP desplegada mediante el entorno de máquinas vulnerables indicado por el profesor.
 
@@ -145,3 +145,10 @@ En un entorno de producción seguro, el código debería:
 - Eliminar el uso de funciones `mysql_*` y migrar a `mysqli` o `PDO`.
 - Registrar y monitorizar los intentos de inyección para poder detectar patrones de ataque.
 - No depender de un "nivel de seguridad" configurable que pueda dejar la aplicación deliberadamente vulnerable.
+
+---
+
+**Autor:** Izan Correa Díaz  
+**Fecha:** 29 de enero de 2026  
+**Asignatura:** Puesta en Producción Segura - UT2  
+**Actividad:** Máquinas Vulnerables (bWAPP)

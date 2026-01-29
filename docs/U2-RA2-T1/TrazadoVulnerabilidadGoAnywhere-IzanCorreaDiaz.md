@@ -111,3 +111,8 @@ Según INCIBE y el fabricante:
 4. En **NVD** se consultan las métricas CVSS, el software afectado (CPE) y la asociación a CWE-425.  
 5. Los recursos técnicos muestran que el vector de explotación es el asistente `InitialAccountSetup.xhtml` accesible sin autenticación.  
 6. Finalmente, se documentan las medidas: actualizar a 7.4.1 o superior y eliminar/sustituir `InitialAccountSetup.xhtml` según el tipo de despliegue.
+
+**Autor:** Izan Correa Díaz  
+**Fecha:** 29 de enero de 2026  
+**Asignatura:** Puesta en Producción Segura - UT2  
+**Actividad:** Trazado de la vulnerabilidad en GoAnywhere MFT (CVE-2024-0204)

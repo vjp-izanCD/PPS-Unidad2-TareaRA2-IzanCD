@@ -1,4 +1,4 @@
-# Apartado 4 - Reflexión sobre los Riesgos de las Aplicaciones
+# Reflexión sobre los Riesgos de las Aplicaciones
 
 ## Introducción
 
@@ -259,4 +259,4 @@ Nuestra aplicación educativa no necesita (ni debe tener) la complejidad de un s
 **Autor:** Izan Correa Díaz  
 **Fecha:** 29 de enero de 2026  
 **Asignatura:** Puesta en Producción Segura - UT2  
-**Actividad:** Apartado 4 - Reflexión sobre Riesgos de Aplicaciones
+**Actividad:** Reflexión sobre Riesgos de Aplicaciones
