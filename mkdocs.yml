@@ -7,8 +7,6 @@ repo_url: https://github.com/vjp-izanCD/PPS-Unidad2-TareaRA2-IzanCD
 repo_name: GitHub
 edit_uri: edit/main/docs/
 
-docs_dir: docs
-
 theme:
   name: material
   language: es
@@ -129,12 +127,12 @@ extra:
   generator: false
 
 nav:
-  - Inicio: docs/index.md
+  - Inicio: index.md
   - Trazado de vulnerabilidad:
-      - docs/U2-RA2-T1/TrazadoVulnerabilidadGoAnywhere-IzanCorreaDiaz.md
+      - U2-RA2-T1/TrazadoVulnerabilidadGoAnywhere-IzanCorreaDiaz.md
   - Análisis de vulnerabilidad en máquina vulnerable:
-      - docs/U2-RA2-T2/AnalisisVulnerabilidad-IzanCorreaDiaz.md
+      - U2-RA2-T2/AnalisisVulnerabilidad-IzanCorreaDiaz.md
   - Comprobación de los requisitos de seguridad de una aplicación:
-      - docs/U2-RA2-T3/ComprobacionRequisitosAplicacion-IzanCorreaDiaz.md
+      - U2-RA2-T3/ComprobacionRequisitosAplicacion-IzanCorreaDiaz.md
   - Reflexión sobre los riesgos de las aplicaciones:
-      - docs/U2-RA2-T4/ReflexionRiesgosAplicaciones-IzanCorreaDiaz.md
+      - U2-RA2-T4/ReflexionRiesgosAplicaciones-IzanCorreaDiaz.md
